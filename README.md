@@ -7,6 +7,7 @@ Scraped Foursquare API to get venue information for choosing the best place to o
 https://www.linkedin.com/pulse/venues-data-analysis-opening-restaurant-dallas-jin-elva-jin/
 
 Project 3# TMDb Movie Data Analysis.ipynb:
-This is a practice for data analysis: including data wrangling, data cleaning and data analyze by using NumPy and Pandas. (Data source from Kaggle)
+This is a practice for data analysis @ Udacity: including data wrangling, data cleaning and data analyze by using NumPy and Pandas. (Data source from Kaggle)
 
-
+Project#4 Analyze_ab_test_results_notebook.ipynb:
+This is a practice for A/B test @ Udacity: 1. Probability 2. AB test 3. Regression
