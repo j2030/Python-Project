@@ -11,3 +11,6 @@ This is a practice for data analysis @ Udacity: including data wrangling, data c
 
 Project#4 Analyze_ab_test_results_notebook.ipynb:
 This is a practice for A/B test @ Udacity: 1. Probability 2. AB test 3. Regression
+
+Project#5 Analyze_ab_test_results_notebook.ipynb:
+This is a Data Wrangling Project for Twitter WeRateDogs: 1. Gather Data, 2. Access Data, 3. Clean Data, 4. Store Data, 5. Analyze Data
